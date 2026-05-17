@@ -136,3 +136,30 @@ dmypy.json
 
 # VScode
 .vscode/*
+logdir/
+logs/
+venv/
+__pycache__/
+*.pyc
+wandb/
+*.pt
+*.ckpt
+.ipynb_checkpoints/
+logdir/
+logs/
+venv/
+__pycache__/
+*.pyc
+wandb/
+*.pt
+*.ckpt
+.ipynb_checkpoints/
+logdir/
+logs/
+venv/
+__pycache__/
+*.pyc
+wandb/
+*.pt
+*.ckpt
+.ipynb_checkpoints/
